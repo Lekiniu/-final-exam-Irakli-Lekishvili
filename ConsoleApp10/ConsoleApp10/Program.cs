@@ -11,7 +11,7 @@ namespace ConsoleApp10
 
         static void Main(string[] args)
         {
-            Console.WriteLine("saboloo gamocda-irakli lekishvili");
+            
         }
     }
 }
